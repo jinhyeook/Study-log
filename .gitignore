@@ -2,3 +2,5 @@
 LLM/
 pytorch/
 *.pdf
+Study_LLM/VectorDB
+Study_LLM/FAISS
