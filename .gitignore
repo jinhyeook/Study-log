@@ -1,6 +1,6 @@
 .env
 LLM/
-pytorch/
+pytorch-env/
 *.pdf
 Study_LLM/VectorDB
 Study_LLM/FAISS
