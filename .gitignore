@@ -4,3 +4,4 @@ pytorch-env/
 *.pdf
 Study_LLM/VectorDB
 Study_LLM/FAISS
+Study_LLM/figures
