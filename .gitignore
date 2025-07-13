@@ -1,7 +1,11 @@
 .env
+
 LLM/
 pytorch-env/
+
 *.pdf
+*.txt
+
 Study_LLM/VectorDB
 Study_LLM/FAISS
 Study_LLM/figures
