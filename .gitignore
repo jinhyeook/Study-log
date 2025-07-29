@@ -1,8 +1,6 @@
 .env
 
-LLM/
-pytorch-env/
-LLM2/
+rag_env/
 data/
 
 *.pdf
