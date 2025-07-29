@@ -1,6 +1,7 @@
 .env
 
 rag_env/
+neo4j_env/
 data/
 
 *.pdf
